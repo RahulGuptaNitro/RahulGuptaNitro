@@ -1,14 +1,12 @@
 ## Hi! I am Rahul K Gupta 👋
 
-<img src="https://raw.githubusercontent.com/RahulGuptaNitro/RahulGuptaNitro/master/Head.gif">
+<center><img src="https://raw.githubusercontent.com/RahulGuptaNitro/RahulGuptaNitro/master/Background.gif"></center>
 
-### Bit About Me
+### Bit About Me 👨🏻‍🎓
 
-I am Rahul Kumar Gupta freshman student pursuing Information Technology Engineering.
+I'm an engineering student deeply interested in the vast field of algorithms, fascinated by the emerging wonders of machine learning, and keen to learn about software systems. I’m eager to continue learning and diving deeper. For me, using CS, Math, and Concrete Reasoning to solve complex real-world problems is one of the things providing intrinsic meaning to life. Programming makes me feel cheery and I am always ready to code and learn new things introduced to this huge virtual world of Computer Science.
 
-I am deeply interested in the vast field of algorithms, fascinated by the emerging wonders of machine learning, and keen to learn about software systems. I’m eager to continue learning and diving deeper. For me, using CS, Math, and Concrete Reasoning to solve complex real-world problems is one of the things providing intrinsic meaning to life. Programming makes me feel cheery and I am always ready to code and learn new things introduced to this huge virtual world of Computer Science.
-
-### My Skills
+### My Skills 👨‍💻
 * Python
 * Flutter
 * Machine Learning
