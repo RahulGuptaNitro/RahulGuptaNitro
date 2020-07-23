@@ -1,6 +1,6 @@
 ## Hi! I am Rahul K Gupta 👋🏼
 
-<center><img src="https://raw.githubusercontent.com/RahulGuptaNitro/RahulGuptaNitro/master/Background.gif" width=100% height=auto></center>
+<center><img src="https://raw.githubusercontent.com/RahulGuptaNitro/RahulGuptaNitro/master/Head.gif" width=100% height=auto></center>
 
 
 ### Bit About Me 👨🏻‍🎓
@@ -22,7 +22,7 @@ I'm an engineering student deeply interested in the vast field of algorithms, fa
 * Android Development
 
 
-### To know more about me ℹ️
+### To Know More About Me ℹ️
 https://rahulguptanitro.github.io
 
 <!--[Home](https://rahulguptanitro.github.io){: .btn .btn-info}
