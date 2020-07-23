@@ -1,6 +1,6 @@
 ## Hi! I am Rahul K Gupta 👋🏼
 
-<center><img src="https://raw.githubusercontent.com/RahulGuptaNitro/RahulGuptaNitro/master/Background.gif" width="856" height="258"></center>
+<center><img src="https://raw.githubusercontent.com/RahulGuptaNitro/RahulGuptaNitro/master/Background.gif" width=100% height=auto></center>
 
 
 ### Bit About Me 👨🏻‍🎓
