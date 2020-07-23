@@ -24,8 +24,7 @@ I'm an engineering student deeply interested in the vast field of algorithms, fa
 
 ### To Know More About Me ℹ️
 
-<a href="https://rahulguptanitro.github.io/" target="_blank">Visit rahulguptanitro.github.io!</a>
-[Visit](https://rahulguptanitro.github.io){: .btn}
+[Visit rahulguptanitro.github.io!](https://rahulguptanitro.github.io){: .btn}
 
 <!--[Home](https://rahulguptanitro.github.io){: .btn .btn-info}
 **RahulGuptaNitro/RahulGuptaNitro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
