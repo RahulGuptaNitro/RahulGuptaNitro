@@ -24,7 +24,7 @@ I'm an engineering student deeply interested in the vast field of algorithms, fa
 
 ### To Know More About Me ℹ️
 
-<a href="https://rahulguptanitro.github.io/" target="_blank">Visit rahulguptanitro.github.io/!</a>
+<a href="https://rahulguptanitro.github.io/" target="_blank">Visit rahulguptanitro.github.io!</a>
 
 
 <!--[Home](https://rahulguptanitro.github.io){: .btn .btn-info}
