@@ -13,7 +13,7 @@ I'm an engineering student deeply interested in the vast field of algorithms, fa
 * Flutter
 * Machine Learning
 * Matlab
-* C
+* C Language
 * Java
 * HTML
 * CSS
